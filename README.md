@@ -1,3 +1,21 @@
+# Star Wars Characters
+
+The following are the requirements for this project:
+
+- Allow users to choose a character from the provided JSON file
+- Upon selection of a character, the UI should update to display information about each of the films that that character appears in. Minimally: Title, and formatted ('Thursday, May 19 2005') release date
+- Do this with any js framework, and some kind of component-based pattern
+- You can only use the API routes found the provided 'characters.json' file, and the data returned from those calls
+- Don't load the movie data until the character is clicked
+- Don't show any movie information until all of the character's movies have loaded
+- Handle HTTP errors (While loading the character as well as the film information
+- Separate concerns where applicable
+- Make it pretty! You're encouraged to use Bootstrap, Bulma, Material Components, or any other css framework
+
+## External Resources
+
+- Favicon: [IconArchive](http://de1.iconarchive.com/show/starwars-icons-by-sensibleworld/Lightsaber-Green-icon.html)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
