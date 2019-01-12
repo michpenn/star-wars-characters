@@ -12,9 +12,15 @@ The following are the requirements for this project:
 - Separate concerns where applicable
 - Make it pretty! You're encouraged to use Bootstrap, Bulma, Material Components, or any other css framework
 
+## Deployment
+
+You can see a working deployment [here](https://michpenn.github.io/star-wars-characters/)
+
 ## External Resources
 
 - Favicon: [IconArchive](http://de1.iconarchive.com/show/starwars-icons-by-sensibleworld/Lightsaber-Green-icon.html)
+
+# Information about Create React App Below:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
